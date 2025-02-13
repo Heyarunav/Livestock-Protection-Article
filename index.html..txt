@@ -1,0 +1,61 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Livestock Protection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .qr-code {
+            text-align: center;
+            margin-top: 20px;
+        }
+        img {
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>AI-Powered Wearable Technology: Protecting Livestock</h1>
+        <p><strong>Imagine this:</strong> You wake up in the morning only to find your livestock attacked by wild animals. A tragedy that farmers in rural areas know too well. What if technology could help prevent such losses?</p>
+
+        <h2>How AI and Wearable Tech Can Save Livestock</h2>
+        <p>With the help of AI-powered wearable sensors, farmers can now monitor their animals in real-time. These smart devices detect predator movements, track health metrics, and send emergency alerts.</p>
+
+        <h2>How It Works</h2>
+        <ul>
+            <li><strong>Smart Collars:</strong> Track animal location and health.</li>
+            <li><strong>AI-Powered Detection:</strong> Identifies predators nearby.</li>
+            <li><strong>Real-Time Alerts:</strong> Sends warnings to farmers' smartphones.</li>
+        </ul>
+
+        <h2>Learn More</h2>
+        <p>To explore this technology in action, scan the QR code below:</p>
+        
+        <div class="qr-code">
+            <img src="qr-code.png" alt="Scan the QR Code">
+            <p><em>Scan to read more!</em></p>
+        </div>
+    </div>
+
+</body>
+</html>
